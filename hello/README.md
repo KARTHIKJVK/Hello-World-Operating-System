@@ -6,9 +6,7 @@ This is a minimalist kernel which prints "`my first kernel`" on the screen and t
 * The kernel is multi-boot compliant and loads with GRUB.
 
 
-#### Blog post ####
-
-[Kernel 101 – Let’s write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+Refer to the link given for more information
 
 #### Build commands ####
 ```
