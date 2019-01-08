@@ -49,5 +49,3 @@ Voila!
 
 ![kernel screenshot](http://static.tumblr.com/gltvynn/yOdn443dr/mkernel.png "Screenshot")
 
-#### The next step ####
-See [mkeykernel repo](//github.com/arjun024/mkeykernel)
